@@ -9,7 +9,7 @@ import java.time.Duration;
 import java.util.List;
 
 public class OpenAIResponse {
-    final String API_KEY = "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";
+    final String API_KEY = "OPENAI_TOKEN";
     static OpenAiService service;
 
     public OpenAIResponse(){
