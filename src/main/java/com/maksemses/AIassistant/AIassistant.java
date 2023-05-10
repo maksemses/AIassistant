@@ -11,7 +11,7 @@ import net.dv8tion.jda.api.sharding.ShardManager;
 import javax.security.auth.login.LoginException;
 
 public class AIassistant {
-    private static final String TOKEN = "MTEwNTgzMTAxODQ1NzQ3MzE2NA.Gg_o65.87nnJNGeKbaUfUsfGtdr9P4pqXo7NvacXxod40";
+    private static final String TOKEN = "MTEwNTgzMTAxODQ1NzQ3MzE2NA.GTl_Eg.GXE8WtpHAC_yWWiBcB8_8d9pZm414XCKjG4hdU";
     private final ShardManager shardManager;
 
     public AIassistant() throws LoginException {
